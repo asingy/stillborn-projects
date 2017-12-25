@@ -1,0 +1,148 @@
+@media (min-width:1170px) and (max-width:1400px) {
+/*.hero-content{padding-bottom:150px;padding-top:150px;}*/
+}
+/* Normal desktop :992px. */
+@media only screen and (min-width:992px) and (max-width:1169px) {
+.hero-content{padding-bottom:75px;padding-top:75px;}
+.single-about-app{padding-left:40px;padding-right:50px;}
+.feature-wrap.feature-left{margin-top:0;}
+.single-feature{margin-left:0;margin-right:0;}
+.feature-image, .feature-image-2{margin-top:65px;}
+.screenshot-slider{padding:0 ;}
+.screenshot-slider::before{height:600px;width:290px;}
+.single-screenshot .image{padding:67px 10px;}
+.contact-info{padding-left:30px;padding-right:15px;}
+.screenshot-slider-2 .slick-list{padding-left:131px !important;padding-right:131px !important;}
+.single-screenshot-2 .image{padding:60px 0;}
+.price-header-2::after{border-width:70px 146px 0;}
+.single-image-slide.slick-center img{-webkit-transform:scale(1.6);-ms-transform:scale(1.6);transform:scale(1.6);}
+#ccounter li{margin-right:90px;}
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+.header .logo{margin:0 0 0 30px;}
+.step6-cont{padding:0px;}
+.hero-content{padding-bottom:50px;padding-top:50px;}
+.hero-content img{margin-bottom:25px;}
+.hero-content h1{font-size:36px;line-height:46px;max-width:220px;}
+.about-app-image{text-align:center;}
+.feature-wrap.feature-left{margin-top:0;}
+.single-feature{margin-left:0;margin-right:0;padding-left:65px;padding-right:70px;}
+.feature-image, .feature-image-2{margin-top:65px;}
+.screenshot-slider{padding:0 ;}
+.screenshot-slider::before{height:435px;width:210px;}
+.single-screenshot .image{padding:48px 10px 49px;}
+.single-pricing{margin-bottom:50px;}
+.single-pricing:last-child{margin-bottom:0;}
+.single-team{margin-bottom:50px;}
+.team-area{padding-bottom:50px;}
+.download-links a{margin:0 5px;}
+.contact-info{margin-bottom:50px;}
+.footer-email .mail-icons{margin-top:0;}
+.footer-social a{display:inline-block;float:none;}
+.hero-content-2{padding-top:0;padding-bottom:100px;}
+.about-app-content-2{margin-top:50px;}
+.screenshot-slider-2 .slick-list{padding-left:152px !important;padding-right:152px !important;}
+.single-screenshot-2 .image{padding:70px 0;}
+.screenshot-slider-2 .slick-arrow{opacity:0;}
+.screenshot-slider-2:hover .slick-arrow{opacity:1;}
+.ss2-prev{left:0;}
+.ss2-next{right:0;}
+.single-pricing-2{margin-bottom:50px;}
+.single-pricing-2:last-child{margin-bottom:0;}
+.price-header-2::after{border-width:70px 173px 0;}
+#ccounter li{margin:15px 100px;}
+}
+@media only screen and (max-width:767px) {
+.header .logo{margin:0 0 0 10px;}
+.bg-create{background:none;z-index:auto;background-color:#f5f5f5;}
+.step6-cont{padding:0px;}
+.create-title h1, .create-title h3{color:#333333 !important;}
+.container{width:450px;}
+.section-title h1{font-size:24px;}
+.hero-area{margin-top:80px;}
+.hero-content{padding:50px 0;}
+.hero-content img{margin-bottom:15px;}
+.hero-content h1{font-size:26px;line-height:36px;max-width:160px;}
+.hero-content a{height:36px;font-size:12px;line-height:36px;padding:0 20px;}
+.hero-content a i{font-size:18px;line-height:38px;}
+.about-app-image{text-align:center;}
+.single-about-app{padding-left:0;padding-right:0;}
+.single-about-app .content h4{margin-top:0;}
+.feature-wrap.feature-left{margin-top:0;}
+.single-feature{margin-left:0;margin-right:0;}
+.feature-image, .feature-image-2{margin-top:65px;}
+.single-feature .content h3{margin-top:0;}
+.screenshot-slider{padding:0 79px;}
+.screenshot-slider::before{height:483px;width:234px;}
+.single-screenshot .image{padding:53px 10px 55px;}
+.single-pricing{margin-bottom:50px;}
+.single-pricing:last-child{margin-bottom:0;}
+.single-team{margin-bottom:50px;}
+.single-team:last-child{margin-bottom:0;}
+.testimonial-image{float:none;margin-right:0;width:200px;margin-left:30px;}
+.testimonial-content{padding:30px;}
+.download-links a{margin:0 5px;}
+.subscribe-form form{padding-left:15px;}
+.subscribe-form form input{width:180px;}
+.subscribe-form form button{width:170px;}
+.contact-info{margin-bottom:50px;}
+#contact-map{height:400px;}
+.footer-email .mail-icons{margin-top:0;}
+.footer-social a{display:inline-block;float:none;}
+.hero-content-2{padding-top:0;padding-bottom:100px;}
+.hero-content-2 h1{font-size:30px;line-height:40px;}
+.about-app-content-2{margin-top:50px;}
+.about-content{padding-left:0;padding-right:0;}
+.screenshot-slider-2 .slick-list{padding-left:0 !important;padding-right:0 !important;}
+.single-screenshot-2.slick-active{transform:scale(1);}
+.single-screenshot-2.slick-center{transform:scale(1.25);}
+.single-screenshot-2 .image{padding:35px 0;}
+.screenshot-slider-2 .slick-arrow{opacity:0;}
+.screenshot-slider-2:hover .slick-arrow{opacity:1;}
+.ss2-prev{left:0;}
+.ss2-next{right:0;}
+.single-pricing-2{margin-bottom:50px;}
+.single-pricing-2:last-child{margin-bottom:0;}
+.price-header-2::after{border-width:70px 209px 0;}
+.single-image-slide{padding:35px 32px;}
+.tis-prev{left:0;}
+.tis-next{right:0;}
+.coming-soon-page{height:auto;padding:50px 0;}
+#ccounter li{margin:15px 25px;}
+.subscribe-form-2 form input{width:275px;}
+.page-404{padding:75px 0;}
+}
+/* small mobile :320px. */
+@media only screen and (max-width:479px){
+.step6-cont{padding:0px;}
+.container{width:300px;}
+.section-title h1{font-size:26px;}
+.hero-content{padding:70px 0;}
+.single-about-app .icon{margin-right:20px;}
+.single-feature .content h3{font-size:18px;}
+.screenshot-slider{padding:0 4px;}
+.subscribe-form form{padding:0;}
+.subscribe-form form label{padding:0 5px 0 15px;}
+.subscribe-form form input{width:232px;}
+.subscribe-form form button{position:relative;width:100%;right:auto;bottom:auto;}
+.contact-info, .contact-form{padding:25px 25px 40px 25px;}
+.contact-form form{padding-left:0;}
+.hero-content-2 h1{font-size:28px;line-height:38px;}
+.single-screenshot-2 .image{padding:25px 0;}
+.price-header-2::after{border-width:70px 135px 0;}
+.single-image-slide{padding:35px 15px;}
+.slick-arrow{display:none!important;}
+.create_3{padding:30px 5px 0;}
+}
+.header .container{width:100%;}
+.menu-wrapper{display:block;}
+.main-menu{background-color:#fff;height:100vh;padding:15px 0 50px;position:absolute;right:-230px;top:50px;width:230px;z-index:9999;}
+.dark-layout .main-menu{background-color:#1E2127;}
+.main-menu.open{right:0;}
+.main-menu nav ul li{display:block;margin-left:30px;width:100%;overflow:hidden;}
+.main-menu nav ul li a{float:left;padding:10px 0;}
+#ccounter li{float:none;margin:15px auto;}
+.subscribe-form-2 form input{width:100%;margin-bottom:5px;}
+.subscribe-form-2 form button{width:100%;}
+.coming-soon-wrapper .social a{display:inline-block;float:none;margin:0 6px 12px;}
+.wrapper-404 .search-form form input{width:245px;}

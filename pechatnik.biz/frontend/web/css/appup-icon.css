@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'appup';
+  src:  url('../fonts/appup.eot?89kbtt');
+  src:  url('../fonts/appup.eot?89kbtt#iefix') format('embedded-opentype'),
+    url('../fonts/appup.ttf?89kbtt') format('truetype'),
+    url('../fonts/appup.woff?89kbtt') format('woff'),
+    url('../fonts/appup.svg?89kbtt#appup') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'appup' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-color:before {
+  content: "\e900";
+}
+.icon-light:before {
+  content: "\e901";
+}
+.icon-light-2:before {
+  content: "\e902";
+}
+.icon-microphone:before {
+  content: "\e903";
+}
+.icon-microphone-2:before {
+  content: "\e904";
+}
+.icon-party:before {
+  content: "\e905";
+}
+.icon-phone:before {
+  content: "\e906";
+}
+.icon-phone-2:before {
+  content: "\e907";
+}
+.icon-share:before {
+  content: "\e908";
+}
+.icon-team:before {
+  content: "\e909";
+}
+.icon-team-2:before {
+  content: "\e90a";
+}
+.icon-camera:before {
+  content: "\e90b";
+}
+.icon-cloud-download:before {
+  content: "\e90c";
+}
+.icon-cog:before {
+  content: "\e90d";
+}
+.icon-cog-2:before {
+  content: "\e90e";
+}
+.icon-cog-light:before {
+  content: "\e90f";
+}
+.icon-cog-light-2:before {
+  content: "\e910";
+}
+

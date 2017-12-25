@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg12"
+   version="1.1"
+   viewBox="0 0 250 250"
+   height="250"
+   width="250">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <g
+     transform="translate(0,62.5)"
+     id="g4500">
+    <rect
+       style="fill:none;stroke:#000099;stroke-width:3.5"
+       class="Rect"
+       x="2"
+       y="2"
+       width="246"
+       height="121"
+       idp="Rect0"
+       layerp="0"
+       id="rect2" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:44px;font-family:Arial;fill:#000099;stroke:none"
+       x="123"
+       y="44"
+       font-size="44"
+       font-style="normal"
+       font-weight="normal"
+       idp="Text1"
+       layerp="1"
+       id="text6">
+      <tspan
+         style="text-anchor:middle"
+         dy="13.32"
+         id="tspan4">ДОГОВОР</tspan>
+    </text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:18px;font-family:Arial;fill:#000099;stroke:none"
+       x="125"
+       y="93"
+       font-size="18"
+       font-style="normal"
+       font-weight="normal"
+       idp="Text2"
+       layerp="2"
+       id="text10">
+      <tspan
+         style="text-anchor:middle"
+         dy="5.7600002"
+         id="tspan8">от &quot;__&quot; _________20__г.</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+stage-asingy:
+  hostname:
+  user:
+  port: 22
+  configFile: ~/.ssh/config
+  identityFile: ~/.ssh/id_rsa
+  stage:
+  branch:
+  repository:
+  deploy_path:

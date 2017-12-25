@@ -1,0 +1,22 @@
+<svg width="250" height="250" viewBox="0 0 250 250" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+  <polygon stroke-linecap="butt" class="Trian" points="125,18.255550944575603 248.26148851665636,231.7444490554244 1.7385114833436432,231.7444490554244" la="248" fill="none" stroke="#000099" stroke-width="2" idp="Trian0" layerp="0"></polygon>
+  <g font-size="12" font-style="normal" font-family="Arial" fill="#000099" stroke="none" font-weight="normal" a="220.0229770333127" in="0" idp="TrianText1" layerp="1">
+    <text x="180.00574425832818" y="129.03849079636566" transform="rotate(60 180.00574425832818,129.03849079636566)">
+      <tspan dy="12.04" text-anchor="middle">огрн 12345689787</tspan>
+    </text>
+    <text x="125" y="224.30843985179007">
+      <tspan dy="-4.48" text-anchor="middle">г. Воронеж</tspan>
+    </text>
+    <text x="69.99425574167182" y="129.03849079636566" transform="rotate(-60 69.99425574167182,129.03849079636566)">
+      <tspan dy="12.04" text-anchor="middle">инн 9874512587</tspan>
+    </text>
+  </g>
+  <polygon stroke-linecap="butt" class="Trian" points="125,29.163005383792537 239,226.61100538379253 11,226.61100538379253" la="228" fill="none" stroke="#000099" stroke-width="2" idp="Trian2" layerp="2"></polygon>
+  <polygon stroke-linecap="butt" class="Trian" points="125,68.42282368868707 205,206.98282368868706 45,206.98282368868706" la="160" fill="none" stroke="#000099" stroke-width="2" idp="Trian3" layerp="3"></polygon>
+  <text x="125" y="143" fill="#000099" stroke="none" font-size="22" font-family="Arial" font-style="normal" font-weight="normal" idp="Text4" layerp="4">
+    <tspan dy="6.84" text-anchor="middle">Для</tspan>
+  </text>
+  <text x="125" y="179" fill="#000099" stroke="none" font-size="22" font-family="Arial" font-style="normal" font-weight="normal" idp="Text5" layerp="5">
+    <tspan dy="6.84" text-anchor="middle">Справок</tspan>
+  </text>
+</svg>
